@@ -1,4 +1,71 @@
-body {
-    background: rgb(171,0,144);
-    background: linear-gradient(90deg, rgba(171,0,144,1) 0%, rgba(3,2,87,1) 40%, rgba(9,121,69,1) 80%, rgba(0,212,255,1) 100%);
+@font-face {
+    font-family: 'Neon One';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/NeonOne.otf');
 }
+
+h1:first-of-type {
+    margin-top: 0px;
+    padding: 16px;
+    font-family: 'Neon One';
+    font-size: 60px;
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #d421d4,
+        0 0 30px #d421d4,
+        0 0 40px #d421d4,
+        0 0 55px #d421d4,
+        0 0 75px #d421d4;
+    
+    background-color: rgba(0, 0, 0, 0.5);
+    border-bottom: 1px solid #d421d4;
+}
+
+html, body {
+    min-width: 800px;
+    padding: 2px;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    background-color: black;
+    background-image: url('../images/2951999.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: lime;
+    text-shadow: 4px 2px black;
+    box-shadow: 5px 10px 20px black inset;
+}
+
+th, td {
+    border: 1px dotted rgb(127, 255, 127);
+    padding-right: 5px;
+    padding-left: 5px;
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
+    box-shadow: 5px 3px black;
+}
+
+tr:hover {
+    background-color: rgba(127, 255, 127, 0.25);
+}
+
+td:hover {
+    background-color: rgba(212, 33, 212, 0.5);
+}
+
+a {
+    color: #d421d4;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff82ff;
+}
+
+hr {
+    border-color: #d421d4;
+} 
