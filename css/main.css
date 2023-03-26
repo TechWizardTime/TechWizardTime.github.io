@@ -5,13 +5,6 @@
     src: url('../fonts/NeonOne.otf');
 }
 
-@font-face {
-    font-family: 'Mokoto Glitch.otf';
-    font-style: normal;
-    font-weight: normal;
-    src: url('../fonts/Mokoto\ Glitch.otf');
-}
-
 h1:first-of-type {
     margin-top: 0px;
     padding: 16px;
@@ -76,3 +69,14 @@ a:hover {
 hr {
     border-color: #d421d4;
 } 
+
+img[alt^='QR Code'] {
+    border: 2px solid white;
+}
+
+img[alt~="Avatar"] {
+    box-shadow: 5px 10px 20px black inset;
+    border: 2px solid orange;
+    border-radius: 50%;
+    width: 256px;
+}
