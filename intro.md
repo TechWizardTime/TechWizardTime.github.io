@@ -48,25 +48,21 @@ Lend us your strength so that we might channel fiction into reality. Here are ou
 
 # Donations
 
+## Patreon
+
 [Patreon](https://www.patreon.com/TechWizardTime)
 
-BTC
+## BTC 16DvnS8jBc2N8W4uGTg6NFePwRcgtGAnrB
 
 ![BTC 16DvnS8jBc2N8W4uGTg6NFePwRcgtGAnrB](images/btc_16DvnS8jBc2N8W4uGTg6NFePwRcgtGAnrB.png)
 
-16DvnS8jBc2N8W4uGTg6NFePwRcgtGAnrB
-
-ETH
+## ETH 0x195F719C75825e5C48a2A3BD514AB2764dF06805
 
 ![ETH 0x195F719C75825e5C48a2A3BD514AB2764dF06805](images/eth_0x195F719C75825e5C48a2A3BD514AB2764dF06805.png)
 
-0x195F719C75825e5C48a2A3BD514AB2764dF06805
-
-LTC
+## LTC LSnfmhoJrnkiyGD2SZfR2KwKVf4JHifkUr0
 
 ![LTC LSnfmhoJrnkiyGD2SZfR2KwKVf4JHifkUr0](images/ltc_LSnfmhoJrnkiyGD2SZfR2KwKVf4JHifkUr.png)
-
-LSnfmhoJrnkiyGD2SZfR2KwKVf4JHifkUr0
 
 ---
 
