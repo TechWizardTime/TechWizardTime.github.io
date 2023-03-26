@@ -4,7 +4,8 @@
 
 1. [Introduction](#introduction)<br>
 2. [Projects](#projects)<br>
-3. [Wizards](#wizards)<br>
+3. [Donations](#donations)<br>
+4. [Wizards](#wizards)<br>
     a. [Becoming a Tech Wizard](#becoming-a-tech-wizard)<br>
 4. [The Lab](#the-lab)<br>
 5. [Learn](#learning)<br>
@@ -42,6 +43,15 @@ Lend us your strength so that we might channel fiction into reality. Here are ou
 | Factory | 3D Printer assisted by pick and place robotic arm. | 15 / 1500 | 0% | 29 / 1000 |
 | Kitchen Neo | Robotic kitchen and storage system | 15 / 1500 | 0% | 29 / 1000 |
 | I'm'real | Accurate avatars for communications. | 15 / 1500 | 0% | 29 / 1000 |
+
+---
+
+# Donations
+
+- [Patreon](https://www.patreon.com/TechWizardTime)
+- BTC 16DvnS8jBc2N8W4uGTg6NFePwRcgtGAnrB
+- ETH 0x195F719C75825e5C48a2A3BD514AB2764dF06805
+- LTC LSnfmhoJrnkiyGD2SZfR2KwKVf4JHifkUr0
 
 ---
 
