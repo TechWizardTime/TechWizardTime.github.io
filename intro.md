@@ -1,5 +1,7 @@
 # TechWizardTime
 
+![TechWizardTime Avatar](images/TechWizardTime_sm.png)
+
 # Wiki Contents
 
 1. [Introduction](#introduction)<br>
