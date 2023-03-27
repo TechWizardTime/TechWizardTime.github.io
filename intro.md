@@ -10,25 +10,23 @@
 
 - [Donations](#donations)
 
+- [Links](#links)
+
 - [Wizards](#wizards)
-
-    a. [Become a Wizard](#become-a-wizard)
-
-- [The Lab](#the-lab)
-
-- [Learn](#learning)
 
 ---
 
 ## Introduction
 
-TODO: Add more here
+We are a group of tech enthusiasts setting out on the world to improve and enlighten those who are interested. Come learn with us. Develop something amazing and see how you impact the world.
 
 ---
 
 ## Projects
 
 Lend us your strength so that we might channel fiction into reality. Here are our current goals. As the goals find funding the wizards will focus their powers in those areas.
+
+*The following is an example as we prepare our journey:*
 
 | Code Name | Description | Funding | Completed | Focus |
 | :-- | :-- | :-: | :-: | :-: |
@@ -72,26 +70,16 @@ Clicking on a crypto name will copy the address for pasting.
 
 ---
 
+## Links
+
+- [GitHub](https://github.com/TechWizardTime)
+- [YouTube](https://www.youtube.com/@TechWizardTime)
+- [Patreon](https://www.patreon.com/TechWizardTime)
+- Discord - coming soon!
+
+---
+
 ## Wizards
 
-TODO: Add more here
-
-### Become a Wizard
-
-TODO: Add more here
-
-#### Apprentice
-
-TODO: Add more here
-
----
-
-### The Lab
-
-TODO: Add more here
-
----
-
-### Learning
-
-TODO: Add more here
+- jonesm aka TechWizardTime the individual
+- Haldolaay
