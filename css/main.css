@@ -110,6 +110,21 @@ li > p {
 }
 
 footer {
+    margin-top: 0px;
+    padding: 16px;
+    font-family: 'Neon One';
+    font-size: 2vh;
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #d421d4,
+        0 0 30px #d421d4,
+        0 0 40px #d421d4,
+        0 0 55px #d421d4,
+        0 0 75px #d421d4;
     text-align: center;
-    padding-bottom: 10px;;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-top: 1px solid #d421d4;
+
 }
