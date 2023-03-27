@@ -59,7 +59,7 @@ body {
 }
 
 th, td {
-    border: 1px dotted rgb(127, 255, 127);
+    border: 1px solid rgb(127, 255, 127);
     padding-right: 5px;
     padding-left: 5px;
     -webkit-backdrop-filter: blur(4px);
@@ -82,6 +82,10 @@ a {
 
 a:hover {
     color: #ff82ff;
+}
+
+a[href^='http']:hover::after {
+    content: ' - (' attr(href) ')';
 }
 
 hr {
@@ -126,5 +130,4 @@ footer {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.5);
     border-top: 1px solid #d421d4;
-
 }
