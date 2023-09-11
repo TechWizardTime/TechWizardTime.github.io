@@ -19,6 +19,15 @@
                 document.getElementById('content').innerHTML = marked.parse(data);
             })
         </script>
-        <footer>Copyright &copy; 2017 &ndash; 2023 TechWizardTime.com</footer>
+        <footer>
+            <canvas id="ftemail" width="228" height="22"></canvas>
+            <script>
+                const ctx = document.getElementById("ftemail").getContext("2d");
+                ctx.font = "16px Arial";
+                ctx.fillStyle  = "#d421d4";
+                ctx.fillText("info@TechWizardTime.com", 2, 16);
+            </script>
+            <br>
+            opyright &copy; 2017 &ndash; 2023 TechWizardTime.com</footer>
     </body>
 </html>
